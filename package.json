@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/brudter/healthcare-hero/issues"
   },
-  "homepage": "https://github.com/brudter/healthcare-hero#readme"
+  "homepage": "https://github.com/brudter/healthcare-hero#readme",
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.2.5"
+  }
 }

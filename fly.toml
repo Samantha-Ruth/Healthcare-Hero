@@ -1,0 +1,14 @@
+# fly.toml app configuration file generated for healthcare-hero on 2023-05-19T18:57:20-06:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "healthcare-hero"
+primary_region = "den"
+
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
