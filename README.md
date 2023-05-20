@@ -17,7 +17,9 @@ Pricing for medical services are usually hidden from the public. This app helps 
 
 
 ## Link to HealthCare Hero
-Heroku: https://quiet-river-83898.herokuapp.com
+Was initially deployed on Heroku (https://quiet-river-83898.herokuapp.com), but was migrated over to Fly after Heroku's free tier was decreased. 
+<br />
+Now deployed on Fly.io: https://heathcare-hero.fly.dev/
 <br />
 Github: https://github.com/Samantha-Ruth/healthcare-hero
 
